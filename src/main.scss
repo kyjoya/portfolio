@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Neuton');
+
+$coral: #c99081;
+$rose: #b99096;
+$black: #000;
+$rose-light: #dec8c3;
+
+$heading: 'Montserrat', sans-serif;
+$text: 'Neuton', serif;
+
+.ka-page-container {
+  height: 100vh;
+  background: $black;
+}
+
+h1 { font-family: $heading; color: $coral }
